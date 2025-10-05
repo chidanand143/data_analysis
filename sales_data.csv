@@ -1,0 +1,13 @@
+Date,Order_ID,Category,Product,Quantity,Price_Each,Sales_Amount,Region
+01-01-2023,10001,Electronics,Laptop,1,1200,1200,West
+01-01-2023,10002,Clothing,T-Shirt,5,25,125,East
+02-01-2023,10003,Electronics,Monitor,2,300,600,West
+02-01-2023,10004,Home Goods,Lamp,1,50,50,Central
+03-01-2023,10005,Clothing,Jeans,3,75,225,East
+03-01-2023,10006,Electronics,Webcam,1,50,50,West
+04-01-2023,10007,Home Goods,Blender,1,80,80,Central
+05-01-2023,10008,Clothing,Sweater,2,40,80,East
+05-01-2023,10009,Electronics,Mouse,4,15,60,West
+06-01-2023,10010,Home Goods,Toaster,1,35,35,Central
+07-01-2023,10011,Electronics,Keyboard,1,75,75,East
+07-01-2023,10012,Clothing,Socks,10,5,50,West
